@@ -1,8 +1,3 @@
-# HR_management_analysis_dashboard
-
-# Creating a README.md file specifically for the HR Management Analysis dashboard project.
-
-hr_readme_content = """
 # 💼 HR Management Analysis Dashboard
 
 This project is a comprehensive **HR analytics dashboard** built using **Power BI**, aimed at analyzing employee data to derive insights into workforce performance, attrition, hiring trends, and departmental efficiency.
