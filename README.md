@@ -77,7 +77,7 @@ The dataset includes fields like:
 ## 🤝 Let's Connect
 
 - 📧 Email: afsheen8433ansari@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/afsheenansari)
+- 💼 LinkedIn Profile: www.linkedin.com/in/afsheenansari
 
 ---
 
