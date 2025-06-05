@@ -83,10 +83,3 @@ The dataset includes fields like:
 
 ⭐ *If you find this project useful, feel free to star the repository!*
 """
-
-# Save to a markdown file
-hr_readme_path = "/mnt/data/HR_Management_Analysis_README.md"
-with open(hr_readme_path, "w", encoding="utf-8") as f:
-    f.write(hr_readme_content)
-
-hr_readme_path
